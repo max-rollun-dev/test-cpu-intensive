@@ -1,9 +1,9 @@
 console.log('CPU intensive task');
 
 
-let n = 1
+let hugeArray = [{date: '123123'}];
 while (true) {
-  n += 1
+  hugeArray = hugeArray.concat(hugeArray)
 }
 
 console.log('CPU task end');
