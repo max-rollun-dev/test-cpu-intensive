@@ -16,22 +16,6 @@ const puppeteer = require('puppeteer');
     foo(),
     foo(),
     foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
-    foo(),
     foo()
   ])
 
