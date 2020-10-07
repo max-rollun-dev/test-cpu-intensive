@@ -18,6 +18,5 @@
   },
   "homepage": "https://github.com/max-rollun-dev/test-cpu-intensive#readme",
   "dependencies": {
-    "puppeteer": "^5.3.1"
   }
 }
